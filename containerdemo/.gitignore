@@ -6,7 +6,7 @@ build/reports
 build/resources
 build/test-results
 build/tmp
-build/libs/*plain.jar
+build/libs/**plain.jar
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
